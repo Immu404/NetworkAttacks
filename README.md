@@ -1,12 +1,10 @@
 # Analyze Network Attacks
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 This project involves reading a WireShark TCP/HTTP log to identify what type of attack is occuring and creating an incident report.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Incident response by analyzing the security incident.
 - Identifying root causes and attack vectors.
@@ -15,7 +13,6 @@ This project involves reading a WireShark TCP/HTTP log to identify what type of 
 - Problem-Solving to diagnose the attack.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Packet sniffers (Wireshark)
 
